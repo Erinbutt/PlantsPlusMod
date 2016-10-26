@@ -1,0 +1,15 @@
+[
+{
+  "modid": "plantsplus",
+  "name": "Plants Plus Mod",
+  "description": "Adding Color to your World!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ErinButt"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
